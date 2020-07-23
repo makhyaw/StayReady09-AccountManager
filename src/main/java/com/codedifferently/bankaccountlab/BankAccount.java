@@ -1,7 +1,7 @@
 package com.codedifferently.bankaccountlab;
 
 //abstract classes are used to create other classes and cannot be instantiated
-public abstract class BankAccount {
+public class BankAccount {
     private String accountNumber;
     private double fees;
     private String name;
