@@ -1,7 +1,4 @@
 package com.codedifferently.bankaccountlab;
 
-public class BankAccountTest {
-
+public class BankingApplicationTest {
 }
-
-
